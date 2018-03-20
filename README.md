@@ -40,7 +40,7 @@ submit button.
 
 ## Contributors
 	-Saksham Gupta
-	-Garuna
+	-Kanav Gupta
 
 
 ## Contact us and Bug Report
